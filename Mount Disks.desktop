@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Disk Mount Manager
+Comment=Manage and mount disks, including BitLocker
+Exec=/home/rem/Mount_Script/MountDisks.py
+Icon=/home/rem/Mount_Script/disk-icon.png
+Terminal=false
+Categories=Utility;System;
